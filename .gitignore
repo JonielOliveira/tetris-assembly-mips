@@ -1,0 +1,39 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Logs
+*.log
+
+# Saídas/compilações geradas
+out/
+build/
+dist/
+bin/
+
+# Java/MARS
+*.class
+
+# Arquivos compactados
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Manter arquivos importantes do projeto
+!*.asm
+!*.pdf
+!*.jar
